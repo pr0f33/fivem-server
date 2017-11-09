@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- VANILLAWORKS EXTENDED PACK, VERSION 1.8 --> 
+<!-- DO NOT DISTRIBUTE WITHOUT THE PERMISSION OF THE CREATORS! -->
+<CVehicleModelInfoVariation>
+  <variationData>  
+    <Item>
+      <modelName>uranuspolice</modelName>
+      <colors>
+         <Item>
+          <indices>
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries>
+            <Item value="true" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices>
+            <Item value="26" />
+            <Item value="0" />
+            <Item value="134" />
+            <Item value="156" />
+          </indices>
+          <liveries>
+            <Item value="true" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices>
+            <Item value="37" />
+            <Item value="0" />
+            <Item value="134" />
+            <Item value="156" />
+          </indices>
+          <liveries>
+            <Item value="true" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices>
+            <Item value="65" />
+            <Item value="0" />
+            <Item value="134" />
+            <Item value="156" />
+          </indices>
+          <liveries>
+            <Item value="true" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices>
+            <Item value="33" />
+            <Item value="0" />
+            <Item value="0" />
+            <Item value="156" />
+          </indices>
+          <liveries>
+            <Item value="true" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices>
+            <Item value="62" />
+            <Item value="0" />
+            <Item value="134" />
+            <Item value="156" />
+          </indices>
+          <liveries>
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police Guv Plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="240" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
